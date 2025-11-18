@@ -11,4 +11,4 @@ Si tu presentación está on-line (por ejemplo, en GitHub pages, Google Slides, 
 ### Enlaces a presentaciones on-line
 
 - [EVASTUR: Una experiencia de colaboración público-privada 'full-stack' con R - Emilio López Cano, Isaac Martín de Diego, Carmen Lancho Martín, Marina Cuesta Santa Teresa, Rubén Rodríguez Fernández, Natalia Madrueño Sierro, Víctor Aceña Gil, Javier Saugar López y Antonio Amado Eguiagaray.](https://emilopezcano.github.io/15jres/)
-  
+- [RLCS: a shorter introduction (about a symbolic, explainable ML algorithm - N. L. D.](https://kaizen-r.github.io/others/RLCS_documentation_15#/title-slide)
