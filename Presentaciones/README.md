@@ -10,5 +10,5 @@ Si tu presentación está on-line (por ejemplo, en GitHub pages, Google Slides, 
 
 ### Enlaces a presentaciones on-line
 
-- [EVASTUR: Una experiencia de colaboración público-privada 'full-stack' con R - Emilio López Cano, Isaac Martín de Diego, Carmen Lancho Martín, Marina Cuesta Santa Teresa, Rubén Rodríguez Fernández, Natalia Madrueño Sierro, Víctor Aceña Gil, Javier Saugar López y Antonio Amado Eguiagaray.](https://emilopezcano.github.io/15jres/
+- [EVASTUR: Una experiencia de colaboración público-privada 'full-stack' con R - Emilio López Cano, Isaac Martín de Diego, Carmen Lancho Martín, Marina Cuesta Santa Teresa, Rubén Rodríguez Fernández, Natalia Madrueño Sierro, Víctor Aceña Gil, Javier Saugar López y Antonio Amado Eguiagaray.](https://emilopezcano.github.io/15jres/)
   
